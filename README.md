@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
  I am an IT student passionate about crafting efficient, streamlined software solutions.<br>I believe that software should do exactly what it's meant to do, no unnecessary features, no bloat.<br> I aim to create applications that are lightweight, fast, and bug-free, focusing on direct user benefits without unnecessary barriers like mandatory accounts.
 
 
